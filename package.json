@@ -1,0 +1,22 @@
+{
+  "name": "gold-secret",
+  "version": "1.0.0",
+  "description": "Hide & Reveal",
+  "main": "index.js",
+  "bin": {
+    "secret": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/florianmaxim/gold-secret.git"
+  },
+  "author": "Florian Maxim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/florianmaxim/gold-secret/issues"
+  },
+  "homepage": "https://github.com/florianmaxim/gold-secret#readme"
+}
